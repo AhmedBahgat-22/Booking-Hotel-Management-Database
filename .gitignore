@@ -1,0 +1,17 @@
+# SQL Server local databases/backups and generated files
+*.bak
+*.mdf
+*.ldf
+*.trn
+*.log
+*.tmp
+.vs/
+.idea/
+*.user
+*.suo
+Thumbs.db
+.DS_Store
+# Do not commit personal data exports or real payment information
+private/
+secrets/
+exports/
